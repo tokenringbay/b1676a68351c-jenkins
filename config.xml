@@ -6,7 +6,7 @@
   </disabledAdministrativeMonitors>
   <version>2.249.1</version>
   <installStateName>RUNNING</installStateName>
-  <numExecutors>2</numExecutors>
+  <numExecutors>0</numExecutors>
   <mode>NORMAL</mode>
   <useSecurity>true</useSecurity>
   <authorizationStrategy class="hudson.security.FullControlOnceLoggedInAuthorizationStrategy">
